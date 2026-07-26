@@ -71,11 +71,6 @@ Base mainnet mechanisms most wallets never see the far side of — donation hook
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=evmpirate&show_icons=true&hide_border=true&title_color=C9A227&icon_color=C9A227&text_color=c9c9c9&bg_color=0B1E33" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evmpirate&layout=compact&hide_border=true&title_color=C9A227&text_color=c9c9c9&bg_color=0B1E33" height="160" />
-
-<br><br>
-
 *"X marks the block."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A227,50:0E3A53,100:0B1E33&height=100&section=footer" width="100%"/>
